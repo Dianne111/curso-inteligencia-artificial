@@ -1,0 +1,9 @@
+streamlit
+moviepy
+torch
+scipy
+transformers
+opencv-python
+numpy
+Pillow
+easyocr
